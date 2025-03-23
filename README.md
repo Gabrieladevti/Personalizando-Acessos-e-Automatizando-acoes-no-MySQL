@@ -23,21 +23,21 @@ Você poderá criar um usuário gerente que terá acesso as informações de emp
 
 Um exemplo retirado da aula para criação de usuário e definição de permissão pode ser encontrado abaixo. 
 
-# CODE 1:
+## CODE 1:
 
 Obs: O tema de permissão de usuários foi apresentada no curso Explorando Cláusulas de DDL e Esquemas de Banco de Dados no MySQL. 
 
   
 ## Parte 2 – Criando gatilhos para cenário de e-commerce 
 
-# Objetivo: 
+## Objetivo: 
 
 Sabemos que a criação de triggers está associadas a ações que podem ser tomadas em momento anterior ou posterior a inserção, ou atualização dos dados. Além disso, em casos de remoção podemos utilizar as triggers. Sendo assim, crie as seguintes triggers para o cenário de e-commerce. 
 
  
 Exemplo de trigger para base.
 
-# CODE 2:
+## CODE 2:
 
 Entregável: 
 
@@ -46,17 +46,17 @@ Triggers de remoção: before delete
 Triggers de atualização: before update 
 
  
-# Remoção:  
+## Remoção:  
 
 Usuários podem excluir suas contas por algum motivo. Dessa forma, para não perder as informações sobre estes usuários, crie um gatilho before remove 
 
-# CODE 3:
+## CODE 3:
 
 Atualização:  
 
 Inserção de novos colaboradores e atualização do salário base. 
 
-# CODE 4:
+## CODE 4:
 
 Adicione o link do github com o projeto e submeta para avaliação. 
 
