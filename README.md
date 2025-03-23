@@ -60,5 +60,3 @@ CODE 4:
 
 Adicione o link do github com o projeto e submeta para avaliação. 
 
-
-## Roberto Trugilho Moreira<br> Em desenvolvimento...
