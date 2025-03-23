@@ -1,4 +1,4 @@
-## Projeto Personalizando Acessos e Automatizando ações no MySQL.
+## Personalizando Acessos e Automatizando ações no MySQL.
 
 ## DESCRIÇÃO
 Neste desafio você irá criar visões em cima dos dados, além de, realizar modificações com base em ações automatizadas utilizando triggers.
